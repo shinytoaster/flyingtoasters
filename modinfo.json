@@ -1,0 +1,14 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "flyingtoasters",
+    "display_name" : "Flyingtoasters Balance Mod",
+    "description" : "Balanced for defensive play",
+    "date": "2014/10/01",
+    "category": [
+      "balance"
+    ],
+    "author" : "shinytoaster",
+    "version" : "1.0.1",
+    "signature" : "(not yet implemented)"
+}
